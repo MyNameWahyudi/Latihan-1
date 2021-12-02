@@ -12,3 +12,4 @@ Rencana latihan 1
 - Interview
 - Penting belajar
 - Python
+- React
