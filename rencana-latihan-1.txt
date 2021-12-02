@@ -1,12 +1,17 @@
 Rencana latihan 1
 
 - Javascript
+
+  # ES6
   # Framework Javascript
-    ^ React
-    ^ Angular
+    ^ Vue
 - CSS
 - React
 - PHP
-- Structure Data Dasar
-- Penting belajar
+  # PHP Framework
+    ^ Laravel
 - Data Structure
+- Python
+- React
+- Structure Data Dasar
+
