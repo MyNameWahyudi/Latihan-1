@@ -5,3 +5,4 @@ Rencana latihan 1
 - React
 - PHP
 - Interview
+- Penting belajar
