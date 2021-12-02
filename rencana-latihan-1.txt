@@ -1,0 +1,7 @@
+Rencana latihan 1
+
+- Javascript
+- CSS
+- React
+- PHP
+- Interview
