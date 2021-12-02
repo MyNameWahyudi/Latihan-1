@@ -1,8 +1,12 @@
 Rencana latihan 1
 
 - Javascript
+  # Framework Javascript
+    ^ React
+    ^ Angular
 - CSS
 - React
 - PHP
-- Interview
+- Structure Data Dasar
 - Penting belajar
+- Data Structure
