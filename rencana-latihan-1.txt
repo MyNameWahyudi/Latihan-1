@@ -1,6 +1,7 @@
 Rencana latihan 1
 
 - Javascript
+
   # ES6
   # Framework Javascript
     ^ Vue
@@ -9,7 +10,8 @@ Rencana latihan 1
 - PHP
   # PHP Framework
     ^ Laravel
-- Interview
-- Penting belajar
+- Data Structure
 - Python
 - React
+- Structure Data Dasar
+
