@@ -1,0 +1,5 @@
+Rencana latihan 1
+
+- Javascript
+- PHP
+- Interview
