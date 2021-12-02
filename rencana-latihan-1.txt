@@ -1,8 +1,15 @@
 Rencana latihan 1
 
 - Javascript
+  # ES6
+  # Framework Javascript
+    ^ Vue
 - CSS
 - React
 - PHP
+  # PHP Framework
+    ^ Laravel
 - Interview
 - Penting belajar
+- Python
+- React
